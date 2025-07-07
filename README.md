@@ -37,7 +37,7 @@ Sigue estos pasos para obtener una copia local del proyecto y ejecutarlo en tu m
 
 1.  **Clonar el Repositorio:**
     ```bash
-    git clone [https://github.com/PastFlex1/POO.git](https://github.com/PastFlex1/POO.git)
+    git clone https://github.com/Past-Alex/POOU2.git
     cd POO
     ```
 
